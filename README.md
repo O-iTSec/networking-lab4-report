@@ -77,6 +77,7 @@ nslookup <name>
 gpupdate /force
 gpresult /r
 
+```
 
 ## What I Learned
 - Importance of DNS in Active Directory environments
