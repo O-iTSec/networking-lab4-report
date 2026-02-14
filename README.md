@@ -76,3 +76,13 @@ ping <ip>
 nslookup <name>
 gpupdate /force
 gpresult /r
+
+
+## What I Learned
+- Importance of DNS in Active Directory environments
+- DHCP/DNS interaction in domain networks
+- Troubleshooting domain join failures
+- IIS configuration and default document handling
+- Group Policy scope, linking, and enforcement
+- Real-world Windows server administration practices
+
